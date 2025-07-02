@@ -1,0 +1,8 @@
+Additional question
+
+University Examination Question (Nov 2019)
+
+Write a servlet program GradeServlet.java that accepts Grade through radio buttons from index.html page, 
+if the string is "A","B","C" OR "D", the program should dispatch the direct to the Success.html page 
+containing message "Congratulations, You Passed SEM V exam", else display "Try Again" and load index.html 
+page in current servlet.
